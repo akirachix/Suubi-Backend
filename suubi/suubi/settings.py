@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'members',
     'accounts',
-    'loans'
+    'loans',
+    'milk_sales'
     
 ]
 
