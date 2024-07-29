@@ -14,3 +14,5 @@ class Accounts(models.Model):
     
 def __str__(self):
     return f'{self.balance}'
+
+# 
