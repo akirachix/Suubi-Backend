@@ -13,4 +13,4 @@ class Accounts(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     
 def __str__(self):
-    return f'{self.balance}'
+    return f' Hello, your Account balance is{self.balance}'
